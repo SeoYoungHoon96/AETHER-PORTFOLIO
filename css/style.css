@@ -87,11 +87,6 @@ figure {
   font-weight: 400;
   margin: 0 0 20px 0;
 }
-
-.col-md-8 {
-  margin-top: 100px;
-}
-
 .abt {
   font-family: "avigea";
   color: #ae8ac1;
@@ -1585,7 +1580,9 @@ input[type="text"] {
 
 .work_text h3 {
   margin: 0;
-  padding: 0.1em 0 0.2em;
+  padding: 0.12em 0 0.2em;
+  color: #535353;
+  font-size: 18px;
 }
 
 .work_text p {
